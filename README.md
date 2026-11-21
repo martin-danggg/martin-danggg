@@ -1,6 +1,4 @@
-## Hi there 👋
-**Created by Vo Tien**
-
+## Hello, world 👋
 <!--
 **martin-danggg/martin-danggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
